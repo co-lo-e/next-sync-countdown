@@ -4,11 +4,11 @@ export default function AuthPage() {
 	
 }
 
-function Login() {
+// function Login() {
 
-}
+// }
 
-function SignUp() {
+// function SignUp() {
 
-}
+// }
 
